@@ -24,8 +24,8 @@ Para a persistência dos dados, foi utilizado o **XAMPP** para gerenciar o servi
 * **Mapeamento de Dados:** As classes C# foram convertidas em tabelas SQL usando as ferramentas de **Migrations** do EF Core.
 
 > [!IMPORTANT]
-> **Conexão no DBeaver:**
-> ![Print das tabelas no DBeaver](<
+> **Conexão no DBeaver e Xamp:**
+> ! (Print das tabelas no Dbeaver e Xamp)
 <img width="669" height="439" alt="Captura de tela 2026-03-20 111052" src="https://github.com/user-attachments/assets/3fa10cde-4fbf-4cc8-b394-f6e5ebccce59" />
 />
 <img width="1421" height="788" alt="image" src="https://github.com/user-attachments/assets/6ec67a60-43b8-467e-b12e-dd3a854ab6a1" />
