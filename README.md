@@ -39,7 +39,7 @@ Para a persistência dos dados, foi utilizado o **XAMPP** para gerenciar o servi
 O projeto utiliza o suporte nativo do .NET 9 para **OpenAPI**. A visualização e testes dos endpoints são feitos através da nova interface integrada, dispensando o uso de ferramentas externas para testes básicos.
 
 > **API em Execução:**
-> ![Screenshot da Documentação OpenAPI](
+> !(Print API)
 <img width="1903" height="951" alt="image" src="https://github.com/user-attachments/assets/861c9bc3-dc18-43ab-9c58-47104fc8a0e8" />
 )
 
