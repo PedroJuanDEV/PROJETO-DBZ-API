@@ -4,7 +4,7 @@ Esta é uma Web API de alto desempenho desenvolvida em **C# .NET 9** para o gere
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 * ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) **Framework:** .NET 9.0 (ASP.NET Core Web API)
 * ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) **Linguagem:** C# 13
@@ -15,7 +15,7 @@ Esta é uma Web API de alto desempenho desenvolvida em **C# .NET 9** para o gere
 
 ---
 
-## 🗄️ Configuração do Ambiente e Banco de Dados
+##  Configuração do Ambiente e Banco de Dados
 
 Para a persistência dos dados, foi utilizado o **XAMPP** para gerenciar o serviço do MySQL e o **DBeaver** como interface de manipulação de dados.
 
@@ -33,7 +33,7 @@ Para a persistência dos dados, foi utilizado o **XAMPP** para gerenciar o servi
 
 ---
 
-## ✨ Funcionalidades e Diferenciais
+##  Funcionalidades e Diferenciais
 
 ### 1. Documentação Nativa (.NET 9)
 O projeto utiliza o suporte nativo do .NET 9 para **OpenAPI**. A visualização e testes dos endpoints são feitos através da nova interface integrada, dispensando o uso de ferramentas externas para testes básicos.
